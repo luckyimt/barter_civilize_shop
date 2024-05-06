@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "chiangmai-beauty-clinic",
+    "dist": "chiangmai-beauty-clinic"
+  },
+  "targets": {},
+  "etags": {}
+}

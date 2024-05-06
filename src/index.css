@@ -1,0 +1,7 @@
+.menu-area a{
+    display: flex;
+    padding:10px;
+    grid-template-columns: repeat(5,1fr);
+
+}
+
